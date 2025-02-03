@@ -1,4 +1,4 @@
-module sample/api_project
+module api_project
 
 go 1.18
 
